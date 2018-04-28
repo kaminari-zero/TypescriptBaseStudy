@@ -1,0 +1,14 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/ObjectPropTest/BaseObject.js",
+		"bin-debug/ObjectPropTest/Animal.js",
+		"bin-debug/Main.js",
+		"bin-debug/ObjectPropTest/Cat.js",
+		"bin-debug/ObjectPropTest/ObjectPropTest.js"
+	]
+}

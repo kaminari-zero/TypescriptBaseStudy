@@ -1,0 +1,26 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/IteratorTest/IteratorTest.js",
+		"bin-debug/Main.js",
+		"bin-debug/ArrayTest/ArrayAccessorTest.js",
+		"bin-debug/ArrayTest/ArrayIterationTest.js",
+		"bin-debug/ArrayTest/ArrayMutatorTest.js",
+		"bin-debug/ArrayTest/ArrayTest.js",
+		"bin-debug/DecoratorTest/DecoratorTest.js",
+		"bin-debug/DecoratorTest/DecoratorTest2.js",
+		"bin-debug/ArgumentsTest/ArgumentsTest.js",
+		"bin-debug/ListTest/List.js",
+		"bin-debug/ListTest/ListImpl.js",
+		"bin-debug/ListTest/ListTest.js",
+		"bin-debug/ListTest/Stack.js",
+		"bin-debug/PromiseTest/PromiseTest.js",
+		"bin-debug/PromiseTest/PromiseTest2.js",
+		"bin-debug/StringFunctionTest/StringFunTest.js",
+		"bin-debug/StringFunctionTest/StringFunTest2.js"
+	]
+}
